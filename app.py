@@ -6,7 +6,7 @@ import pandas as pd
 st.title(" Цикл Ренкіна — розрахунок ККД")
 
 
-st.header(" Вхідні дані")
+st.header(" Вхідні дані (1 варіант)")
 
 P1 = 2e6
 P2 = 0.004e6
